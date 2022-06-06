@@ -1,0 +1,5 @@
+- 👋 Hi, My name is João Martins
+- 👀 I’m a Frontend Engineer
+- 🌱 I mainly work with ReactJS focused on UX / UI performance and flexibility 
+- 💞️ I’m looking to collaborate on any open source project.
+- 📫 How to reach me by email at: sintram.oaoj@gmail.com
