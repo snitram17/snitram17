@@ -1,5 +1,5 @@
 - 👋 Hi, My name is João Martins
 - 👀 I’m a Fullstack Engineer
-- 🌱 My main stack is ReactJS/SpringBoot
+- 🌱 React, Spring Boot.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me by email at: sintram.oaoj@gmail.com
